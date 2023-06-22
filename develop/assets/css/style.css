@@ -228,3 +228,10 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.button{
+    font-size: 25px;
+    color: yellow;
+    cursor: pointer;
+    display: inline-block;
+}
