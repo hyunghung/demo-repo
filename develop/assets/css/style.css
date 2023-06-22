@@ -104,7 +104,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff; 
 }*/
-.benefit h3{
+.benefit-title h3{
     margin-bottom: 10px;
     text-align: center;
 }
@@ -124,7 +124,7 @@ p {
     text-align: center;
 } */
 
-.benefit img{
+.benefit-title img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
