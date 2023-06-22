@@ -1,4 +1,4 @@
-**Module 1 Challenge**
+*Module 1 Challenge*
 
 Within this challenge, we are asked to use the starter code and write the codes to make the code look visually simpler but also ensure
 that the code follows different requirements. These requirements consist of accessibility standards, semantic HTML elements, accessible 
